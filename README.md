@@ -1,5 +1,4 @@
-# NTVR 
- ETL PROJECT 
+# NTVR (Nielsen TV Ratings) 
 
 Guidelines for ETL Project
 
